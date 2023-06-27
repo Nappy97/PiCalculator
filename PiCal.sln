@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCal", "PiCal\PiCal.csproj", "{339CAF95-B545-43E9-A2FC-CA231F6A62DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPi", "MathPi\MathPi.csproj", "{7A8E81B5-B41D-46B2-974A-AEDE82943754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339CAF95-B545-43E9-A2FC-CA231F6A62DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339CAF95-B545-43E9-A2FC-CA231F6A62DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339CAF95-B545-43E9-A2FC-CA231F6A62DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339CAF95-B545-43E9-A2FC-CA231F6A62DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8E81B5-B41D-46B2-974A-AEDE82943754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8E81B5-B41D-46B2-974A-AEDE82943754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8E81B5-B41D-46B2-974A-AEDE82943754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8E81B5-B41D-46B2-974A-AEDE82943754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

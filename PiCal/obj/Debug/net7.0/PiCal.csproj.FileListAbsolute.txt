@@ -1,0 +1,15 @@
+D:\study\PiCal\PiCal\PiCal\bin\Debug\net7.0\PiCal.exe
+D:\study\PiCal\PiCal\PiCal\bin\Debug\net7.0\PiCal.deps.json
+D:\study\PiCal\PiCal\PiCal\bin\Debug\net7.0\PiCal.runtimeconfig.json
+D:\study\PiCal\PiCal\PiCal\bin\Debug\net7.0\PiCal.dll
+D:\study\PiCal\PiCal\PiCal\bin\Debug\net7.0\PiCal.pdb
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.csproj.AssemblyReference.cache
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.AssemblyInfoInputs.cache
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.AssemblyInfo.cs
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.csproj.CoreCompileInputs.cache
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.dll
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\refint\PiCal.dll
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.pdb
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\PiCal.genruntimeconfig.cache
+D:\study\PiCal\PiCal\PiCal\obj\Debug\net7.0\ref\PiCal.dll

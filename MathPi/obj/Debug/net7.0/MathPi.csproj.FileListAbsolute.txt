@@ -1,0 +1,15 @@
+D:\study\PiCal\PiCal\MathPi\bin\Debug\net7.0\MathPi.exe
+D:\study\PiCal\PiCal\MathPi\bin\Debug\net7.0\MathPi.deps.json
+D:\study\PiCal\PiCal\MathPi\bin\Debug\net7.0\MathPi.runtimeconfig.json
+D:\study\PiCal\PiCal\MathPi\bin\Debug\net7.0\MathPi.dll
+D:\study\PiCal\PiCal\MathPi\bin\Debug\net7.0\MathPi.pdb
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.csproj.AssemblyReference.cache
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.AssemblyInfoInputs.cache
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.AssemblyInfo.cs
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.csproj.CoreCompileInputs.cache
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.dll
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\refint\MathPi.dll
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.pdb
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\MathPi.genruntimeconfig.cache
+D:\study\PiCal\PiCal\MathPi\obj\Debug\net7.0\ref\MathPi.dll
